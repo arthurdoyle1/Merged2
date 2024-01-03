@@ -1,15 +1,37 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <meta charset='utf-8' />
-  <title>NYC motor vehicle collisions</title>
-  <meta name='viewport' content='width=device-width, initial-scale=1' />
-  <script src='https://api.mapbox.com/mapbox-gl-js/v2.14.1/mapbox-gl.js'></script>
-  <script src="config.js"></script>
-  <script src="app.js"></script>
-  <link href='https://api.mapbox.com/mapbox-gl-js/v2.14.1/mapbox-gl.css' rel='stylesheet' />
-  <link href='style.css' rel='stylesheet' />
+  <head>
+    <meta charset='utf-8'>
+    <title>NYC motor vehicle collisions</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+
+    <!-- Load CSS Files -->
+    <link href='https://api.mapbox.com/mapbox-assembly/v0.24.0/assembly.min.css' rel='stylesheet'>
+    <link href='https://api.mapbox.com/mapbox-gl-js/v2.0.1/mapbox-gl.css' rel='stylesheet'>
+    <link rel='stylesheet' href="style.css" />
+
+    <!-- Load JavaScript Libraries -->
+    <script src='https://api.mapbox.com/mapbox-assembly/v0.24.0/assembly.js'></script>
+    <script src='https://unpkg.com/supercluster'></script>
+    <script src='https://api.mapbox.com/mapbox-gl-js/v2.0.1/mapbox-gl.js'></script>
+    <script src='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v4.2.0/mapbox-gl-geocoder.min.js'></script>
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/geojson/0.5.0/geojson.min.js'></script>
+    <script src='https://cdn.jsdelivr.net/npm/@turf/turf@5/turf.min.js'></script>
+    <script src='https://cdn.jsdelivr.net/npm/lodash@4.17.15/lodash.min.js'></script>
+    <script src='https://npmcdn.com/csv2geojson@latest/csv2geojson.js'></script>
+    <script src='https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js'></script>
+    <script src='config.js'></script>
+    <script src='app.js'></script>
+
+    <!-- Custom Styles -->
+    <style>
+        body { margin: 0; padding: 0; }
+        #legend { position: absolute; top: 75px; right: 10px; background: rgba(255, 255, 255, 0.8); padding: 10px; border-radius: 5px; }
+        .legend-item { margin-bottom: 8px; }
+        .legend-color { width: 20px; height: 20px; display: inline-block; margin-right: 5px; }
+    </style>
 </head>
+
 
 <body>
 <div id='map'></div>
