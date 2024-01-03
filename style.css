@@ -130,23 +130,23 @@ body {
 }
 
 .mapboxgl-popup-content {
-    font: 400 15px/22px 'Source Sans Pro', 'Helvetica Neue', Sans-serif;
-    text-align: center;
-    padding: 5px; /* Corrected to include 'px' */
-    width: 180px; /* You might want to adjust this or set max-width instead */
-    word-wrap: break-word; /* Added to wrap long words */
-    overflow-wrap: break-word; /* Ensures overflow text is wrapped */
+  font: 400 15px/22px 'Source Sans Pro', 'Helvetica Neue', Sans-serif;
+  text-align: center;
+  padding: 5px; /* Corrected to include 'px' */
+  width: 180px; /* You might want to adjust this or set max-width instead */
+  word-wrap: break-word; /* Added to wrap long words */
+  overflow-wrap: break-word; /* Ensures overflow text is wrapped */
 }
 
 .mapboxgl-popup-close-button {
-    display: none;
-  }
+  display: none;
+}
 
 .mapboxgl-popup-content h3 {
-    color:black;
-    font-weight: 500;
-    margin: 0;
-    display: block;
+  color:black;
+  font-weight: 500;
+  margin: 0;
+  display: block;
 
   }
   .session {

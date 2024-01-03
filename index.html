@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-  <head>
+<head>
     <meta charset='utf-8'>
     <title>NYC motor vehicle collisions</title>
     <meta name='viewport' content='width=device-width, initial-scale=1'>
@@ -20,8 +20,6 @@
     <script src='https://cdn.jsdelivr.net/npm/lodash@4.17.15/lodash.min.js'></script>
     <script src='https://npmcdn.com/csv2geojson@latest/csv2geojson.js'></script>
     <script src='https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js'></script>
-    <script src='config.js'></script>
-    <script src='app.js'></script>
 
     <!-- Custom Styles -->
     <style>
@@ -29,36 +27,33 @@
         #legend { position: absolute; top: 75px; right: 10px; background: rgba(255, 255, 255, 0.8); padding: 10px; border-radius: 5px; }
         .legend-item { margin-bottom: 8px; }
         .legend-color { width: 20px; height: 20px; display: inline-block; margin-right: 5px; }
+        #listings, #filters { padding: 10px; }
+        .sidebar-section { margin-bottom: 20px; }
+        #filters { display: none; } /* Initially hide the filters */
     </style>
 </head>
 
-
 <body>
-<div id='map'></div>
-<div id='console'>
-  <h1>Motor vehicle collisions</h1>
-  <p>Data: <a href='https://data.cityofnewyork.us/Public-Safety/NYPD-Motor-Vehicle-Collisions/h9gi-nx95'>Motor vehicle collision injuries and deaths</a> in NYC, Jan 2016</p>
-  <div class='session'>
-    <h2>Casualty</h2>
-    <div class='row colors'></div>
-    <div class='row labels'>
-      <div class='label'>0</div>
-      <div class='label'>1</div>
-      <div class='label'>2</div>
-      <div class='label'>3</div>
-      <div class='label'>4</div>
-      <div class='label'>5+</div>
-    </div>
-    <div class='session' id='sliderbar'>
-      <h2>Year: <label id='active-year'>2018</label></h2>
-      <input id='slider' class='row' type='range' min='2018' max='2024' step='1' value='2018' />
-      <label for="show-all-years">Show All Years</label>
-      <input type="checkbox" id="show-all-years">
-    </div>
-  </div>
-</div>
+    <div id='map'></div>
+    <div id='console'>
+        <h1>Motor vehicle collisions</h1>
+        <p>Data: <a href='https://data.cityofnewyork.us/Public-Safety/NYPD-Motor-Vehicle-Collisions/h9gi-nx95'>Motor vehicle collision injuries and deaths</a> in NYC, Jan 2016</p>
+        
+        <button id='show-filters' class='btn btn--stroke'>Show Filters</button> <!-- Show Filters Button -->
 
-<script src="config.js"></script>
-<script src="app.js"></script>
+        <div id="filters" class="sidebar-section"></div> <!-- Filters section -->
+
+        <div class='session' id='sliderbar'>
+            <h2>Year: <label id='active-year'>2018</label></h2>
+            <input id='slider' class='row' type='range' min='2018' max='2024' step='1' value='2018' />
+            <label for="show-all-years">Show All Years</label>
+            <input type="checkbox" id="show-all-years">
+        </div>
+
+        <div id="listings" class="sidebar-section"></div> <!-- Listings section -->
+    </div>
+
+    <script src="config.js"></script>
+    <script src="app.js"></script>
 </body>
 </html>
