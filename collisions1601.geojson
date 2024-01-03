@@ -1,0 +1,2069 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 177.9,-17.7 ]
+     },
+     "properties": {
+     "Year":2023,
+     "Diplomacy_category":"HADR – Disaster Response",
+     "Delivering_Country":"United States of America",
+     "Receiving_Countries":"Fiji",
+     "Comments":"Pacific Partnership 2023 Returns to Fiji",
+     "Source":"https://www.dvidshub.net/news/456802/pacific-partnership-2023-returns-fiji",
+     "Colour":"Broad"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 177.9,-17.75 ]
+     },
+     "properties": {
+     "Year":2023,
+     "Diplomacy_category":"MIL-POL Engagement",
+     "Delivering_Country":"China",
+     "Receiving_Countries":"Fiji",
+     "Comments":"Fiji to potentially cut its policing agreement with China",
+     "Source":"https://www.fbcnews.com.fj/news/fiji-to-potentially-cut-its-policing-agreement-with-china/",
+     "Colour":"Broad"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 177.9,-17.8 ]
+     },
+     "properties": {
+     "Year":2023,
+     "Diplomacy_category":"Training",
+     "Delivering_Country":"China",
+     "Receiving_Countries":"Fiji",
+     "Comments":"UN Staff Officer Courses, Beijing",
+     "Source":"https://twitter.com/ChineseEmb_FJ/status/1696353433853530172",
+     "Colour":"Broad"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 177.9,-17.85 ]
+     },
+     "properties": {
+     "Year":2023,
+     "Diplomacy_category":"Training",
+     "Delivering_Country":"China",
+     "Receiving_Countries":"Fiji",
+     "Comments":"RFMF Officers off to China for study",
+     "Source":"https://twitter.com/ChineseEmb_FJ/status/1695387605893038403",
+     "Colour":"Broad"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 177.9,-17.9 ]
+     },
+     "properties": {
+     "Year":2023,
+     "Diplomacy_category":"Training",
+     "Delivering_Country":"United States of America",
+     "Receiving_Countries":"Fiji",
+     "Comments":"First female RFMF gradautes from US Military College",
+     "Source":"https://twitter.com/USEmbassySuva/status/1719972633259991469",
+     "Colour":"Broad"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 177.95,-17.7 ]
+     },
+     "properties": {
+     "Year":2023,
+     "Diplomacy_category":"Visit Diplomacy",
+     "Delivering_Country":"Australia",
+     "Receiving_Countries":"Fiji",
+     "Comments":"Fijian PM visits Gallipoli Barracks in Brisbane",
+     "Source":"https://twitter.com/PatConroy1/status/1715240244621246619",
+     "Colour":"Broad"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 177.95,-17.75 ]
+     },
+     "properties": {
+     "Year":2023,
+     "Diplomacy_category":"Visit Diplomacy",
+     "Delivering_Country":"United States of America",
+     "Receiving_Countries":"Fiji",
+     "Comments":"Fiji navy officer attends International Seapower Symposium in the US",
+     "Source":"https://twitter.com/TNatuva/status/1704480741269074314?t=VoyK4R-HbgewVZTal0Omaw&s=03",
+     "Colour":"Broad"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 177.95,-17.8 ]
+     },
+     "properties": {
+     "Year":2022,
+     "Diplomacy_category":"Military Exercises",
+     "Delivering_Country":"Australia",
+     "Receiving_Countries":"Fiji",
+     "Comments":"Fijian infantrymen set the standard",
+     "Source":"https://www.defence.gov.au/news-events/news/2022-07-28/fijian-infantrymen-set-standard",
+     "Colour":"Broad"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 177.95,-17.85 ]
+     },
+     "properties": {
+     "Year":2022,
+     "Diplomacy_category":"Training",
+     "Delivering_Country":"Australia",
+     "Receiving_Countries":"Fiji",
+     "Comments":"Fijian soldiers welcome training in Brisbane",
+     "Source":"https://www.defence.gov.au/news-events/news/2022-02-17/fijian-soldiers-welcome-training-brisbane",
+     "Colour":"Broad"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 177.95,-17.9 ]
+     },
+     "properties": {
+     "Year":2021,
+     "Diplomacy_category":"Training",
+     "Delivering_Country":"United States of America",
+     "Receiving_Countries":"Fiji",
+     "Comments":"Forging US-Fiji military partnerships in the classroom",
+     "Source":"https://spiritofamerica.org/us-fiji-military-partnership",
+     "Colour":"Broad"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 178,-17.7 ]
+     },
+     "properties": {
+     "Year":2020,
+     "Diplomacy_category":"Defence Cooperation",
+     "Delivering_Country":"Australia",
+     "Receiving_Countries":"Fiji",
+     "Comments":"Fiji and Australia to negotiate new military pact",
+     "Source":"https://www.wsws.org/en/articles/2020/12/01/fiji-d01.html",
+     "Colour":"Broad"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 178,-17.75 ]
+     },
+     "properties": {
+     "Year":2020,
+     "Diplomacy_category":"Training",
+     "Delivering_Country":"Australia",
+     "Receiving_Countries":"Fiji",
+     "Comments":"First RFMF member to graduate from ADFA",
+     "Source":"https://www.fijitimes.com/sailo-is-the-first-fijian-graduate-from-the-australian-defence-force-academy/",
+     "Colour":"Broad"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 178,-17.8 ]
+     },
+     "properties": {
+     "Year":2016,
+     "Diplomacy_category":"Arms control",
+     "Delivering_Country":"Russia",
+     "Receiving_Countries":"Fiji",
+     "Comments":"In early 2016, Fiji and Russia have made an arms deal worth $8.8M to rearm the Republic of Fiji Military Forces.",
+     "Source":"https://www.rnz.co.nz/international/pacific-news/296150/russian-experts-arrive-in-fiji-for-weapons-handover",
+     "Colour":"Broad"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 160.2008386,-9.623266993 ]
+     },
+     "properties": {
+     "Year":2023,
+     "Diplomacy_category":"Maritime Security",
+     "Delivering_Country":"Australia",
+     "Receiving_Countries":"Solomon Islands",
+     "Comments":"RSIPF Guardian Class Patrol Boat will now be armed",
+     "Source":"https://solomons.gov.sb/rsipf-guardian-class-patrol-boat-will-now-be-armed/",
+     "Colour":"Broad"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 160.1314607,-9.600064444 ]
+     },
+     "properties": {
+     "Year":2023,
+     "Diplomacy_category":"Military Medical Diplomacy",
+     "Delivering_Country":"China",
+     "Receiving_Countries":"Solomon Islands",
+     "Comments":"Hospital Ship Peace Ark engages in cultural exchange with local school in Solomon Islands",
+     "Source":"http://eng.mod.gov.cn/xb/News_213114/TopStories/16247107.html",
+     "Colour":"Broad"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 160.212938,-9.645250561 ]
+     },
+     "properties": {
+     "Year":2023,
+     "Diplomacy_category":"MIL-POL Engagement",
+     "Delivering_Country":"Australia",
+     "Receiving_Countries":"Solomon Islands",
+     "Comments":"ADF trains Royal Solomon Islands Police Force officers in small boats handling",
+     "Source":"https://twitter.com/AusHCSols/status/1704377671843750168",
+     "Colour":"Broad"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 160.1668682,-9.664516291 ]
+     },
+     "properties": {
+     "Year":2023,
+     "Diplomacy_category":"MIL-POL Engagement",
+     "Delivering_Country":"Australia",
+     "Receiving_Countries":"Solomon Islands",
+     "Comments":"Australia to send more police to Solomon Islands, extend mission",
+     "Source":"https://www.aljazeera.com/news/2023/9/3/australia-to-send-more-police-to-solomon-islands-extend-mission",
+     "Colour":"Broad"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 160.1811337,-9.603944263 ]
+     },
+     "properties": {
+     "Year":2023,
+     "Diplomacy_category":"Sports Diplomacy (Defence)",
+     "Delivering_Country":"Australia",
+     "Receiving_Countries":"Solomon Islands",
+     "Comments":"Solomon Islands Police Fully Prepared for Pacific Games",
+     "Source":"https://www.miragenews.com/solomon-islands-police-fully-prepared-for-1112152/",
+     "Colour":"Broad"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -175.2703928,-21.14783829 ]
+     },
+     "properties": {
+     "Year":2023,
+     "Diplomacy_category":"HADR – Disaster Response",
+     "Delivering_Country":"New Zealand",
+     "Receiving_Countries":"Tonga",
+     "Comments":"NZ Army helps restore community halls",
+     "Source":"https://matangitonga.to/2023/05/24/nz-army-helps-restore-community-halls",
+     "Colour":"Broad"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -175.2624531,-21.14872468 ]
+     },
+     "properties": {
+     "Year":2023,
+     "Diplomacy_category":"Military Exercises",
+     "Delivering_Country":"Australia",
+     "Receiving_Countries":"Tonga",
+     "Comments":"Exercise Talisman Sabre",
+     "Source":"https://twitter.com/DefenceAust/status/1687010423562727424",
+     "Colour":"Broad"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -175.2520963,-21.15112087 ]
+     },
+     "properties": {
+     "Year":2023,
+     "Diplomacy_category":"Visit Diplomacy",
+     "Delivering_Country":"France",
+     "Receiving_Countries":"Tonga",
+     "Comments":"Prime Minister and Minister responsible for HMAF meets French Minister of Defence",
+     "Source":"https://www.gov.to/press-release/prime-minister-and-minister-responsible-for-his-majestys-armed-forces-meets-french-minister-of-defence/",
+     "Colour":"Broad"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -175.2938308,-21.141735 ]
+     },
+     "properties": {
+     "Year":2022,
+     "Diplomacy_category":"HADR – Disaster Response",
+     "Delivering_Country":"Australia",
+     "Receiving_Countries":"Tonga",
+     "Comments":"ADF's Operation Tonga Assist",
+     "Source":"https://www.youtube.com/watch?v=q0Y6F_YSzCk",
+     "Colour":"Broad"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -175.3171481,-21.14233958 ]
+     },
+     "properties": {
+     "Year":2022,
+     "Diplomacy_category":"HADR – Disaster Response",
+     "Delivering_Country":"Australia",
+     "Receiving_Countries":"Tonga",
+     "Comments":"Tongan homecoming for ADF personnel",
+     "Source":"https://www.youtube.com/watch?v=Gzp_odsRZyE",
+     "Colour":"Broad"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -175.3219681,-21.14766057 ]
+     },
+     "properties": {
+     "Year":2022,
+     "Diplomacy_category":"Military Exercises",
+     "Delivering_Country":"United States of America",
+     "Receiving_Countries":"Tonga",
+     "Comments":"Tongan contingent joining US-led RIMPAC 2022",
+     "Source":"https://matangitonga.to/2022/05/25/tongan-contingent-joining-us-led-rimpac-2022",
+     "Colour":"Broad"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -175.4219681,-21.14766057 ]
+     },
+     "properties": {
+     "Year":2022,
+     "Diplomacy_category":"Visit Diplomacy",
+     "Delivering_Country":"Australia",
+     "Receiving_Countries":"Tonga",
+     "Comments":"Tonga-Australia Defence Cooperation Talks strengthens cooperation",
+     "Source":"https://matangitonga.to/2022/11/27/tonga-australia-defence-cooperation-talks-strengthen-cooperation",
+     "Colour":"Broad"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -175.2649029,-21.14545042 ]
+     },
+     "properties": {
+     "Year":2021,
+     "Diplomacy_category":"Training",
+     "Delivering_Country":"Australia",
+     "Receiving_Countries":"Tonga",
+     "Comments":"Tongan students become combative masters",
+     "Source":"https://matangitonga.to/2021/11/28/tongan-students-become-combative-masters",
+     "Colour":"Broad"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -175.2908135,-21.15082921 ]
+     },
+     "properties": {
+     "Year":2020,
+     "Diplomacy_category":"Training",
+     "Delivering_Country":"Australia",
+     "Receiving_Countries":"Tonga",
+     "Comments":"Proud Tongan graduates from Royal Australian Naval College",
+     "Source":"https://www.looptonga.com/tonga-news/proud-tongan-graduates-royal-australian-naval-college-96127",
+     "Colour":"Broad"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -175.2723019,-21.15132182 ]
+     },
+     "properties": {
+     "Year":2019,
+     "Diplomacy_category":"Military Exercises",
+     "Delivering_Country":"United States of America",
+     "Receiving_Countries":"Tonga",
+     "Comments":"Tongan Marines excel in \"Best Warrior\" contest, Nevada",
+     "Source":"https://matangitonga.to/2019/04/18/tongan-marines-excel-best-warrior-contest-nevada",
+     "Colour":"Broad"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -175.2719735,-21.14359793 ]
+     },
+     "properties": {
+     "Year":2018,
+     "Diplomacy_category":"Military Exercises",
+     "Delivering_Country":"United States of America",
+     "Receiving_Countries":"Tonga",
+     "Comments":"Tonga in U.S. led RIMPAC 2018",
+     "Source":"https://matangitonga.to/2018/07/04/tonga-us-led-rimpac-2018",
+     "Colour":"Broad"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 178.4262386,-18.1595522 ]
+     },
+     "properties": {
+     "Year":2023,
+     "Diplomacy_category":"Defence Cooperation",
+     "Delivering_Country":"China",
+     "Receiving_Countries":"Fiji",
+     "Comments":"RFMF strengthens ties with PLA",
+     "Source":"https://www.fbcnews.com.fj/news/rfmf-strengthens-ties-with-pla/",
+     "Colour":"Specific"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 178.4514454,-18.0993114 ]
+     },
+     "properties": {
+     "Year":2023,
+     "Diplomacy_category":"Defence Infrastructure",
+     "Delivering_Country":"Australia",
+     "Receiving_Countries":"Fiji",
+     "Comments":"Fiji receives 14 Bushmasters from Australia to help with its international PKOs",
+     "Source":"https://www.fbcnews.com.fj/news/fiji-receives-14-bushmasters-from-australia/",
+     "Colour":"Specific"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 177.4875556,-17.01559213 ]
+     },
+     "properties": {
+     "Year":2023,
+     "Diplomacy_category":"HADR – Disaster Response",
+     "Delivering_Country":"New Zealand",
+     "Receiving_Countries":"Fiji",
+     "Comments":"NZ Air Force finds Fiji fishing boat missing for 9 days",
+     "Source":"https://matangitonga.to/2023/10/13/nz-air-force-finds-fiji-fishing-boat-missing-9-days",
+     "Colour":"Specific"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 178.3956598,-18.12998368 ]
+     },
+     "properties": {
+     "Year":2023,
+     "Diplomacy_category":"Maritime Security",
+     "Delivering_Country":"China",
+     "Receiving_Countries":"Fiji",
+     "Comments":"Two Fijian navy shipriders onboard Chinese Naval Training Ship Qi Jiguang",
+     "Source":"https://twitter.com/ChineseEmb_FJ/status/1699386395830407378?t=wCTd87xXyUBWuxM7BUTw3Q&s=03",
+     "Colour":"Specific"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 177.6530315,-17.82028596 ]
+     },
+     "properties": {
+     "Year":2023,
+     "Diplomacy_category":"Military Exercises",
+     "Delivering_Country":"New Zealand",
+     "Receiving_Countries":"Fiji",
+     "Comments":"NZDF personnel 'live in the bush' with Fiji soldiers to strengthen defence ties",
+     "Source":"https://www.rnz.co.nz/international/pacific-news/498926/nzdf-officers-live-in-the-bush-with-fiji-soldiers-to-strengthen-defence-ties",
+     "Colour":"Specific"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 177.4207005,-17.69527906 ]
+     },
+     "properties": {
+     "Year":2023,
+     "Diplomacy_category":"Military Exercises",
+     "Delivering_Country":"New Zealand",
+     "Receiving_Countries":"Fiji",
+     "Comments":"NZDF Trials Beach Landing Equipment In Fiji",
+     "Source":"https://pacific.scoop.co.nz/2023/04/nzdf-trials-beach-landing-equipment-in-fiji/",
+     "Colour":"Specific"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 177.4846871,-17.76044929 ]
+     },
+     "properties": {
+     "Year":2023,
+     "Diplomacy_category":"Military Exercises",
+     "Delivering_Country":"United Kingdom, Australia, United States of America, New Zealand",
+     "Receiving_Countries":"Fiji",
+     "Comments":"Exercise Cartwheel 2023",
+     "Source":"https://twitter.com/RFMF_Defence/status/1702426536702607473",
+     "Colour":"Specific"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 177.5596937,-17.77937886 ]
+     },
+     "properties": {
+     "Year":2023,
+     "Diplomacy_category":"Military Exercises",
+     "Delivering_Country":"United States of America",
+     "Receiving_Countries":"Fiji",
+     "Comments":"Exercise Cartwheel 2023: The Nevada National Guard paired with the Fijian Armed Forces",
+     "Source":"https://twitter.com/USNationalGuard/status/1709297269806100828?t=crayJ8yBZlxMiXfwJNHBlQ&s=03",
+     "Colour":"Specific"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 178.4268673,-18.13436872 ]
+     },
+     "properties": {
+     "Year":2023,
+     "Diplomacy_category":"Military Exercises",
+     "Delivering_Country":"United States of America",
+     "Receiving_Countries":"Fiji",
+     "Comments":"The Pacific Partnership 23 Band marched alongside the RFMF and navy for the change of guard ceremony",
+     "Source":"https://twitter.com/USEmbassySuva/status/1718027445746725158",
+     "Colour":"Specific"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 178.4237695,-18.13943559 ]
+     },
+     "properties": {
+     "Year":2023,
+     "Diplomacy_category":"Military Exercises",
+     "Delivering_Country":"United States of America",
+     "Receiving_Countries":"Fiji",
+     "Comments":"The PacificPartnership23 joined the @RFMF_Defence and @FijiNavy band",
+     "Source":"https://twitter.com/USEmbassySuva/status/1718864805367620075",
+     "Colour":"Specific"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 178.4366464,-18.13614368 ]
+     },
+     "properties": {
+     "Year":2023,
+     "Diplomacy_category":"Military Exercises",
+     "Delivering_Country":"United States of America",
+     "Receiving_Countries":"Fiji",
+     "Comments":"The Pacific Partnership 2023 Band performs alongside the Royal Australian and New Zealand navies in Fiji",
+     "Source":"https://www.facebook.com/100068879063470/posts/the-pacificpartnership2023-band-is-growing-and-continuing-their-small-screen-suc/657967406509222/",
+     "Colour":"Specific"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 178.4248958,-18.14689336 ]
+     },
+     "properties": {
+     "Year":2023,
+     "Diplomacy_category":"Military Exercises",
+     "Delivering_Country":"United States of America",
+     "Receiving_Countries":"Fiji",
+     "Comments":"The Pacific Partnership 2023 Rock Band wowed audiences around Suva with their songs",
+     "Source":"https://twitter.com/fijitimes/status/1720672182618226955",
+     "Colour":"Specific"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 178.456812,-18.11271941 ]
+     },
+     "properties": {
+     "Year":2023,
+     "Diplomacy_category":"Training",
+     "Delivering_Country":"Australia",
+     "Receiving_Countries":"Fiji",
+     "Comments":"RAAF team delivers critical training in Fiji",
+     "Source":"https://www.defence.gov.au/news-events/news/2023-07-07/raaf-team-delivers-critical-training-fiji?linkId=224999801&s=03",
+     "Colour":"Specific"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 177.4465848,-17.62064242 ]
+     },
+     "properties": {
+     "Year":2023,
+     "Diplomacy_category":"Training",
+     "Delivering_Country":"Australia",
+     "Receiving_Countries":"Fiji",
+     "Comments":"Australian Civ-Mil Centre supports Fiji to establish its National Emergency Response Team",
+     "Source":"https://twitter.com/AustCivMil/status/1678196031509471233",
+     "Colour":"Specific"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 178.4334448,-18.15820761 ]
+     },
+     "properties": {
+     "Year":2023,
+     "Diplomacy_category":"Training",
+     "Delivering_Country":"France",
+     "Receiving_Countries":"Fiji",
+     "Comments":"Fiji ratifies the Status of Forces Agreement with France",
+     "Source":"https://www.fbcnews.com.fj/news/fiji-ratifies-the-status-of-forces-agreement-with-france/",
+     "Colour":"Specific"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 178.4240095,-18.15452807 ]
+     },
+     "properties": {
+     "Year":2023,
+     "Diplomacy_category":"Training",
+     "Delivering_Country":"New Zealand",
+     "Receiving_Countries":"Fiji",
+     "Comments":"More K9 dogs added to assist in curbing crimes",
+     "Source":"https://www.fbcnews.com.fj/news/more-k9-dogs-added-to-assist-in-curbing-crimes/",
+     "Colour":"Specific"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 147.0890272,-9.433355362 ]
+     },
+     "properties": {
+     "Year":2023,
+     "Diplomacy_category":"Training",
+     "Delivering_Country":"Papua New Guinea",
+     "Receiving_Countries":"Fiji",
+     "Comments":"The PNGDF and Fijian military personnel participated in industrial training",
+     "Source":"https://www.linkedin.com/posts/pngdf-force-support-battalion_armylogistics-activity-7113456895557861376-slZ4/?utm_source=share&utm_medium=member_android",
+     "Colour":"Specific"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 178.4240865,-18.14747842 ]
+     },
+     "properties": {
+     "Year":2023,
+     "Diplomacy_category":"Visit Diplomacy",
+     "Delivering_Country":"Australia",
+     "Receiving_Countries":"Fiji",
+     "Comments":"Navy to navy talks",
+     "Source":"https://twitter.com/FijiNavy/status/1686965234689617920",
+     "Colour":"Specific"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 178.4223149,-18.14604493 ]
+     },
+     "properties": {
+     "Year":2023,
+     "Diplomacy_category":"Visit Diplomacy",
+     "Delivering_Country":"Australia",
+     "Receiving_Countries":"Fiji",
+     "Comments":"Australian War College delegation met with high-ranking Fijian officials",
+     "Source":"https://twitter.com/EroniDuaibe/status/1704573801873424888",
+     "Colour":"Specific"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 178.4243909,-18.14572327 ]
+     },
+     "properties": {
+     "Year":2023,
+     "Diplomacy_category":"Visit Diplomacy",
+     "Delivering_Country":"Australia, New Zealand",
+     "Receiving_Countries":"Fiji",
+     "Comments":"Tikoduadua meets with regional Defence Chiefs",
+     "Source":"https://www.fbcnews.com.fj/news/tikoduadua-meets-with-regional-defence-chiefs/",
+     "Colour":"Specific"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 178.419064,-18.13246875 ]
+     },
+     "properties": {
+     "Year":2023,
+     "Diplomacy_category":"Visit Diplomacy",
+     "Delivering_Country":"China",
+     "Receiving_Countries":"Fiji",
+     "Comments":"Chinese naval ship Qi Jiguang on good-will visit to Fiji",
+     "Source":"https://twitter.com/fijitimes/status/1709776618280144947",
+     "Colour":"Specific"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 178.4234441,-18.12975085 ]
+     },
+     "properties": {
+     "Year":2023,
+     "Diplomacy_category":"Visit Diplomacy",
+     "Delivering_Country":"China",
+     "Receiving_Countries":"Fiji",
+     "Comments":"Chinese naval ship Qi Jiguang arrives in Fiji",
+     "Source":"https://twitter.com/Benfdef/status/1709806927641973170?t=OOo5yfLehhBNEUx2GkilVQ&s=03",
+     "Colour":"Specific"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 178.4216213,-18.13194509 ]
+     },
+     "properties": {
+     "Year":2023,
+     "Diplomacy_category":"Visit Diplomacy",
+     "Delivering_Country":"China",
+     "Receiving_Countries":"Fiji",
+     "Comments":"Chinese naval ship Qi Jiguang receives a warm reception in Fiji",
+     "Source":"https://twitter.com/ChineseEmb_FJ/status/1709888235705708833?t=gmQFj3Og33Q_T9aRwI7BlA&s=03",
+     "Colour":"Specific"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 178.4243775,-18.1459361 ]
+     },
+     "properties": {
+     "Year":2023,
+     "Diplomacy_category":"Visit Diplomacy",
+     "Delivering_Country":"China",
+     "Receiving_Countries":"Fiji",
+     "Comments":"Senior Task Commanders of Chinese Navy ship Qi Jiguang paid a courtesy call on Fijian FM",
+     "Source":"https://twitter.com/ChineseEmb_FJ/status/1710163065352896730?t=cwTnxNFpOa319oK10QfBgQ&s=03",
+     "Colour":"Specific"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 178.4283464,-18.14942495 ]
+     },
+     "properties": {
+     "Year":2023,
+     "Diplomacy_category":"Visit Diplomacy",
+     "Delivering_Country":"France",
+     "Receiving_Countries":"Fiji",
+     "Comments":"Fiji to sign defence agreement with France",
+     "Source":"https://pina.com.fj/2023/09/01/fiji-says-it-will-sign-defence-agreement-with-france/",
+     "Colour":"Specific"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 178.4136108,-18.13667651 ]
+     },
+     "properties": {
+     "Year":2023,
+     "Diplomacy_category":"Visit Diplomacy",
+     "Delivering_Country":"France",
+     "Receiving_Countries":"Fiji",
+     "Comments":"Senior French army officer welcomed to Fiji",
+     "Source":"https://twitter.com/Benfdef/status/1709806927641973170?t=OOo5yfLehhBNEUx2GkilVQ&s=03",
+     "Colour":"Specific"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 178.4568992,-18.11287143 ]
+     },
+     "properties": {
+     "Year":2023,
+     "Diplomacy_category":"Visit Diplomacy",
+     "Delivering_Country":"Indonesia",
+     "Receiving_Countries":"Fiji",
+     "Comments":"Indonesian Ambassador to Fiji meets Fiji's Army Commander",
+     "Source":"https://twitter.com/SimamoraDupito/status/1714401853843358204",
+     "Colour":"Specific"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 178.4244977,-18.14536377 ]
+     },
+     "properties": {
+     "Year":2023,
+     "Diplomacy_category":"Visit Diplomacy",
+     "Delivering_Country":"Nepal",
+     "Receiving_Countries":"Fiji",
+     "Comments":"Nepal committed to working together with Fiji",
+     "Source":"https://www.fbcnews.com.fj/news/nepal-committed-to-working-together-with-fiji/",
+     "Colour":"Specific"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 177.2666205,-17.89384098 ]
+     },
+     "properties": {
+     "Year":2023,
+     "Diplomacy_category":"Visit Diplomacy",
+     "Delivering_Country":"United Kingdom",
+     "Receiving_Countries":"Fiji",
+     "Comments":"Veterans’ Minister attends National Day, deepening UK-Fiji ties",
+     "Source":"https://www.gov.uk/government/news/veterans-minister-attends-national-day-deepening-uk-fiji-ties",
+     "Colour":"Specific"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 177.4457098,-17.75983661 ]
+     },
+     "properties": {
+     "Year":2023,
+     "Diplomacy_category":"Visit Diplomacy",
+     "Delivering_Country":"United Kingdom",
+     "Receiving_Countries":"Fiji",
+     "Comments":"UK Defence Attache in Fiji meets senior Fijian army officials",
+     "Source":"https://twitter.com/UK_DA_Pacific/status/1718055600821608865",
+     "Colour":"Specific"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 178.4579122,-18.11294853 ]
+     },
+     "properties": {
+     "Year":2023,
+     "Diplomacy_category":"Visit Diplomacy",
+     "Delivering_Country":"United Kingdom",
+     "Receiving_Countries":"Fiji",
+     "Comments":"UK's Defence Chief visited Fiji's Defence Chief",
+     "Source":"https://twitter.com/RFMF_Defence/status/1719074335183577224",
+     "Colour":"Specific"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 178.4600112,-18.10963027 ]
+     },
+     "properties": {
+     "Year":2023,
+     "Diplomacy_category":"Visit Diplomacy",
+     "Delivering_Country":"United Kingdom",
+     "Receiving_Countries":"Fiji",
+     "Comments":"AVM Mick Smeath’s visits RFMF at Strategic HQ, Land Forces, Officer Training Centre and RFN Stanley Brown",
+     "Source":"https://twitter.com/UK_DA_Pacific/status/1720179492637811140",
+     "Colour":"Specific"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 178.4347722,-18.15952539 ]
+     },
+     "properties": {
+     "Year":2023,
+     "Diplomacy_category":"Visit Diplomacy",
+     "Delivering_Country":"United States of America",
+     "Receiving_Countries":"Fiji",
+     "Comments":"US commander on a two-day Fiji visit",
+     "Source":"https://www.fijitimes.com.fj/us-commander-on-two-day-fiji-visit/",
+     "Colour":"Specific"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 177.3218563,-18.10843841 ]
+     },
+     "properties": {
+     "Year":2023,
+     "Diplomacy_category":"Visit Diplomacy",
+     "Delivering_Country":"United States of America, China",
+     "Receiving_Countries":"Fiji",
+     "Comments":"Chinese military delegation joins US-hosted defence conference in Fiji",
+     "Source":"https://www.reuters.com/business/aerospace-defense/chinese-military-delegation-joins-us-hosted-defence-conference-fiji-2023-08-16/",
+     "Colour":"Specific"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 177.6383162,-17.80156194 ]
+     },
+     "properties": {
+     "Year":2022,
+     "Diplomacy_category":"Military Exercises",
+     "Delivering_Country":"New Zealand",
+     "Receiving_Countries":"Fiji",
+     "Comments":"NZ Army in large scale military exercise in Fiji",
+     "Source":"https://www.youtube.com/watch?v=kuOr90K0JIg",
+     "Colour":"Specific"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 177.4851162,-17.7608682 ]
+     },
+     "properties": {
+     "Year":2022,
+     "Diplomacy_category":"Military Exercises",
+     "Delivering_Country":"United Kingdom, Australia, United States of America, New Zealand",
+     "Receiving_Countries":"Fiji",
+     "Comments":"Exercise Cartwheel 2022",
+     "Source":"https://fj.usembassy.gov/exercise-cartwheel-2022-begins/",
+     "Colour":"Specific"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 177.4840004,-17.76016319 ]
+     },
+     "properties": {
+     "Year":2022,
+     "Diplomacy_category":"Training",
+     "Delivering_Country":"Australia",
+     "Receiving_Countries":"Fiji",
+     "Comments":"ADF and RFMF joint exercise",
+     "Source":"https://pina.com.fj/2022/03/14/adf-rfmf-joint-exercise-at-blackrock-zed-seselja/",
+     "Colour":"Specific"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 178.4396222,-18.11696697 ]
+     },
+     "properties": {
+     "Year":2022,
+     "Diplomacy_category":"Training",
+     "Delivering_Country":"United States of America",
+     "Receiving_Countries":"Fiji",
+     "Comments":"Fiji military receives EOD equipment and training from the United States",
+     "Source":"https://www.pacom.mil/Media/News/News-Article-View/Article/3138421/fiji-military-receives-eod-equipment-and-training-from-the-united-states/",
+     "Colour":"Specific"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 177.4853498,-17.75856701 ]
+     },
+     "properties": {
+     "Year":2021,
+     "Diplomacy_category":"Defence Infrastructure",
+     "Delivering_Country":"Australia",
+     "Receiving_Countries":"Fiji",
+     "Comments":"World-class training facility in Fiji nears completion",
+     "Source":"https://www.defence.gov.au/news-events/news/2021-11-23/world-class-training-facility-fiji-nears-completion",
+     "Colour":"Specific"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 178.7202995,-16.66944001 ]
+     },
+     "properties": {
+     "Year":2021,
+     "Diplomacy_category":"HADR – Disaster Response",
+     "Delivering_Country":"Australia",
+     "Receiving_Countries":"Fiji",
+     "Comments":"ADF and Fiji military strengthens vuvale partnership",
+     "Source":"https://www.fbcnews.com.fj/news/adf-assistance-strengthens-vuvale-partnership/",
+     "Colour":"Specific"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 178.679529,-16.77888702 ]
+     },
+     "properties": {
+     "Year":2021,
+     "Diplomacy_category":"HADR – Disaster Response",
+     "Delivering_Country":"Australia",
+     "Receiving_Countries":"Fiji",
+     "Comments":"ADF helicopters assist in delivering aid during Operation Fiji Assist",
+     "Source":"https://www.fijitimes.com/adf-helicopters-assist-in-delivering-aid-during-operation-fiji-assist/",
+     "Colour":"Specific"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 178.7281629,-16.67574987 ]
+     },
+     "properties": {
+     "Year":2021,
+     "Diplomacy_category":"HADR – Disaster Response",
+     "Delivering_Country":"Australia",
+     "Receiving_Countries":"Fiji",
+     "Comments":"Rebuilding opportunities in Fiji",
+     "Source":"https://www.defence.gov.au/news-events/news/2021-10-07/rebuilding-opportunities-fiji",
+     "Colour":"Specific"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 178.4566276,-18.1130717 ]
+     },
+     "properties": {
+     "Year":2021,
+     "Diplomacy_category":"Military Exercises",
+     "Delivering_Country":"Australia",
+     "Receiving_Countries":"Fiji",
+     "Comments":"Coral Warrior gets underway in Fiji",
+     "Source":"https://www.defence.gov.au/news-events/news/2021-10-27/coral-warrior-gets-underway-fiji",
+     "Colour":"Specific"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 178.4666562,-18.11051142 ]
+     },
+     "properties": {
+     "Year":2021,
+     "Diplomacy_category":"MIL-POL Engagement",
+     "Delivering_Country":"United Kingdom",
+     "Receiving_Countries":"Fiji",
+     "Comments":"British Government assures Force support in cooperation programs",
+     "Source":"https://www.fijitimes.com/british-government-assures-force-support-in-cooperation-programs/",
+     "Colour":"Specific"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 177.4510265,-17.75309929 ]
+     },
+     "properties": {
+     "Year":2021,
+     "Diplomacy_category":"Training",
+     "Delivering_Country":"Australia",
+     "Receiving_Countries":"Fiji",
+     "Comments":"Fijian soldiers depart for military training",
+     "Source":"https://www.fijitimes.com/fiji-soldiers-depart-for-military-training/",
+     "Colour":"Specific"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 178.4265266,-18.15962727 ]
+     },
+     "properties": {
+     "Year":2021,
+     "Diplomacy_category":"Training",
+     "Delivering_Country":"China",
+     "Receiving_Countries":"Fiji",
+     "Comments":"RFMF senior officers receive their Masters in Military Science degrees",
+     "Source":"https://www.fijitimes.com/rfmf-senior-officers-receive-their-masters-in-military-science-degrees/",
+     "Colour":"Specific"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 178.1858021,-19.07960373 ]
+     },
+     "properties": {
+     "Year":2020,
+     "Diplomacy_category":"HADR – Disaster Response",
+     "Delivering_Country":"Australia",
+     "Receiving_Countries":"Fiji",
+     "Comments":"More than 600 ADF personnel on their way to Fiji",
+     "Source":"https://www.fijivillage.com/news/More-600-ADF-personnel-on-their-way-to-Fiji-xr458f/",
+     "Colour":"Specific"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 178.389484,-18.17219036 ]
+     },
+     "properties": {
+     "Year":2020,
+     "Diplomacy_category":"HADR – Disaster Response",
+     "Delivering_Country":"Australia",
+     "Receiving_Countries":"Fiji",
+     "Comments":"Australia stands with our Fijian Vuvale following Tropical Cyclone Yasa",
+     "Source":"https://www.minister.defence.gov.au/media-releases/2020-12-23/australia-stands-our-fijian-vuvale-following-tropical-cyclone-yasa",
+     "Colour":"Specific"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 178.6043902,-16.76429202 ]
+     },
+     "properties": {
+     "Year":2020,
+     "Diplomacy_category":"Military Medical Diplomacy",
+     "Delivering_Country":"Australia",
+     "Receiving_Countries":"Fiji",
+     "Comments":"Crew on board Adelaide test negative for Covid-19",
+     "Source":"https://www.fijitimes.com.fj/crew-on-board-adelaide-test-negative-for-covid-19/",
+     "Colour":"Specific"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 179.1978878,-16.602807 ]
+     },
+     "properties": {
+     "Year":2020,
+     "Diplomacy_category":"MIL-POL Engagement",
+     "Delivering_Country":"New Zealand",
+     "Receiving_Countries":"Fiji",
+     "Comments":"NZ Police reaffirm support for Fiji",
+     "Source":"https://www.fbcnews.com.fj/news/tc-yasa/inspector-douglas-reaffirms-nzs-support-for-fiji/",
+     "Colour":"Specific"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 178.3191294,-18.12423402 ]
+     },
+     "properties": {
+     "Year":2020,
+     "Diplomacy_category":"Training",
+     "Delivering_Country":"New Zealand",
+     "Receiving_Countries":"Fiji",
+     "Comments":"Radio operators course for Fiji Navy",
+     "Source":"https://www.fijitimes.com/radio-operators-course-for-fiji-navy/",
+     "Colour":"Specific"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 177.3809499,-17.77266457 ]
+     },
+     "properties": {
+     "Year":2019,
+     "Diplomacy_category":"Training",
+     "Delivering_Country":"United States of America",
+     "Receiving_Countries":"Fiji",
+     "Comments":"Operation Cartwheel 2019 medical training",
+     "Source":"https://twitter.com/HELIPRO_FIJI/status/1161184568436596736",
+     "Colour":"Specific"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 178.801753,-17.94990092 ]
+     },
+     "properties": {
+     "Year":2023,
+     "Diplomacy_category":"Arms control",
+     "Delivering_Country":"New Zealand",
+     "Receiving_Countries":"Fiji, Vanuatu",
+     "Comments":"RNZN ship’s crew to undertake historic survey and bomb disposal in Pacific Islands mission",
+     "Source":"https://www.nzdf.mil.nz/media-centre/news/rnzn-ships-crew-to-undertake-historic-survey-and-bomb-disposal-in-pacific-islands-mission/",
+     "Colour":"Specific"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -172.1046,-13.759 ]
+     },
+     "properties": {
+     "Year":2023,
+     "Diplomacy_category":"Military Exercises",
+     "Delivering_Country":"Australia",
+     "Receiving_Countries":"Samoa, Tonga",
+     "Comments":"ADF deters illegal fishing in the Pacific through Operation Solania",
+     "Source":"https://www.defence.gov.au/news-events/releases/2023-06-01/adf-deters-illegal-fishing-pacific-through-operation-solania",
+     "Colour":"Specific"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 157.411937,-8.174524 ]
+     },
+     "properties": {
+     "Year":2023,
+     "Diplomacy_category":"Arms control",
+     "Delivering_Country":"Australia",
+     "Receiving_Countries":"Solomon Islands",
+     "Comments":"About 500 plus UXOs safely remove and ready for destruction in Western Province",
+     "Source":"https://www.rsipf.gov.sb/?q=node/2777",
+     "Colour":"Specific"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 160.0660169,-9.421527549 ]
+     },
+     "properties": {
+     "Year":2023,
+     "Diplomacy_category":"Cultural Diplomacy (Defence)",
+     "Delivering_Country":"Australia",
+     "Receiving_Countries":"Solomon Islands",
+     "Comments":"Repairing erosion firms Pacific bonds",
+     "Source":"https://www.defence.gov.au/news-events/news/2023-10-11/repairing-erosion-firms-pacific-bonds",
+     "Colour":"Specific"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 159.9429831,-9.428985877 ]
+     },
+     "properties": {
+     "Year":2023,
+     "Diplomacy_category":"Defence Infrastructure",
+     "Delivering_Country":"Australia",
+     "Receiving_Countries":"Solomon Islands",
+     "Comments":"Remote Positioning Vehicle gifted to RSIPF",
+     "Source":"https://www.rsipf.gov.sb/?q=node/2742",
+     "Colour":"Specific"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 159.94049,-9.398278547 ]
+     },
+     "properties": {
+     "Year":2023,
+     "Diplomacy_category":"MIL-POL Engagement",
+     "Delivering_Country":"Australia",
+     "Receiving_Countries":"Solomon Islands",
+     "Comments":"Exercise Coastwatchers trains more than 140 police officers",
+     "Source":"https://indepthsolomons.com.sb/exercise-coastwatchers-trains-more-than-140-police-officers/",
+     "Colour":"Specific"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 159.9436391,-9.429046897 ]
+     },
+     "properties": {
+     "Year":2023,
+     "Diplomacy_category":"MIL-POL Engagement",
+     "Delivering_Country":"Australia",
+     "Receiving_Countries":"Solomon Islands",
+     "Comments":"RSIPF Maritime receives two double cabin land cruiser from Defence Cooperation Program",
+     "Source":"https://www.rsipf.gov.sb/?q=node/2747",
+     "Colour":"Specific"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  { }
+     },
+     "properties": {
+     "Year":2023,
+     "Diplomacy_category":"MIL-POL Engagement",
+     "Delivering_Country":"Australia",
+     "Receiving_Countries":"Solomon Islands",
+     "Comments":"RSIPF Gifted with World Class Capabilities, thanks to Australia",
+     "Source":"https://www.sibconline.com.sb/rsipf-gifted-with-world-class-capabilities-thanks-to-australia/",
+     "Colour":"Specific"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 159.9554364,-9.428611976 ]
+     },
+     "properties": {
+     "Year":2023,
+     "Diplomacy_category":"Sports Diplomacy (Defence)",
+     "Delivering_Country":"Australia",
+     "Receiving_Countries":"Solomon Islands",
+     "Comments":"AHC joins PM Sogavare today for a day of events, announcements and support for the Pacific Games",
+     "Source":"https://twitter.com/AusHCSols/status/1719962900515995787",
+     "Colour":"Specific"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 159.9595961,-9.433329888 ]
+     },
+     "properties": {
+     "Year":2023,
+     "Diplomacy_category":"Training",
+     "Delivering_Country":"Australia",
+     "Receiving_Countries":"Solomon Islands",
+     "Comments":"ACMC supports training delivered by the Solomon Islands National Emergency Response Team",
+     "Source":"https://twitter.com/AustCivMil/status/1653913795146944512",
+     "Colour":"Specific"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 159.933352,-9.433274 ]
+     },
+     "properties": {
+     "Year":2023,
+     "Diplomacy_category":"Training",
+     "Delivering_Country":"Australia",
+     "Receiving_Countries":"Solomon Islands",
+     "Comments":"Delivering life-saving training skills",
+     "Source":"https://www.defence.gov.au/news-events/news/2023-10-23/delivering-life-saving-training-skills",
+     "Colour":"Specific"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 159.932097,-9.433018 ]
+     },
+     "properties": {
+     "Year":2023,
+     "Diplomacy_category":"Training",
+     "Delivering_Country":"China",
+     "Receiving_Countries":"Solomon Islands",
+     "Comments":"Third China's PLT farewelled by RSIPF",
+     "Source":"https://www.rsipf.gov.sb/?q=node/2743",
+     "Colour":"Specific"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 159.932107,-9.434203 ]
+     },
+     "properties": {
+     "Year":2023,
+     "Diplomacy_category":"Training",
+     "Delivering_Country":"New Zealand",
+     "Receiving_Countries":"Solomon Islands",
+     "Comments":"NZ Police and RSIPF deliver 5 Step Mindset training programme at Rove Academy, Honiara",
+     "Source":"https://www.rsipf.gov.sb/?q=node/2753",
+     "Colour":"Specific"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 159.934221,-9.434181 ]
+     },
+     "properties": {
+     "Year":2023,
+     "Diplomacy_category":"Training",
+     "Delivering_Country":"United Kingdom",
+     "Receiving_Countries":"Solomon Islands",
+     "Comments":"UK police experts provide two days’ workshop on Command Awareness in preparation for the PG23 to RSIPF",
+     "Source":"https://www.rsipf.gov.sb/?q=node/2748",
+     "Colour":"Specific"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 155.7667,-7.033333 ]
+     },
+     "properties": {
+     "Year":2022,
+     "Diplomacy_category":"HADR – Disaster Response",
+     "Delivering_Country":"Australia",
+     "Receiving_Countries":"Solomon Islands",
+     "Comments":"RAN personnel rescue occupants of distressed SI police boat",
+     "Source":"https://www.bairdmaritime.com/work-boat-world/maritime-security-world/naval/royal-australian-navy-personnel-rescue-occupants-of-distressed-solomon-islands-police-boat/",
+     "Colour":"Specific"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 159.951465,-9.424221 ]
+     },
+     "properties": {
+     "Year":2022,
+     "Diplomacy_category":"Visit Diplomacy",
+     "Delivering_Country":"Australia",
+     "Receiving_Countries":"Solomon Islands",
+     "Comments":"ADV Reliant arrives in Honiara for Inauguration Pacific Tour",
+     "Source":"https://sbm.sb/adv-reliant-arrives-in-honiara-for-inauguration-pacific-tour/",
+     "Colour":"Specific"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 157.66,-9.566945 ]
+     },
+     "properties": {
+     "Year":2021,
+     "Diplomacy_category":"Defence Infrastructure",
+     "Delivering_Country":"Australia",
+     "Receiving_Countries":"Solomon Islands",
+     "Comments":"Austal Australia delivers 10th Guardian Class Patrol Boat",
+     "Source":"https://www.austal.com/news/austal-australia-delivers-10th-guardian-class-patrol-boat",
+     "Colour":"Specific"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 159.938262,-9.2688 ]
+     },
+     "properties": {
+     "Year":2021,
+     "Diplomacy_category":"Maritime Security",
+     "Delivering_Country":"Australia",
+     "Receiving_Countries":"Solomon Islands",
+     "Comments":"Support to the Pacific",
+     "Source":"https://www.defence.gov.au/news-events/news/2021-03-25/support-pacific",
+     "Colour":"Specific"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 156.34421,-7.554796 ]
+     },
+     "properties": {
+     "Year":2021,
+     "Diplomacy_category":"MIL-POL Engagement",
+     "Delivering_Country":"Australia",
+     "Receiving_Countries":"Solomon Islands",
+     "Comments":"Patrol boat pair delivered to Solomon Islands Police",
+     "Source":"https://www.bairdmaritime.com/work-boat-world/maritime-security-world/non-naval/patrol-boat-pair-delivered-to-solomon-islands-police/",
+     "Colour":"Specific"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 159.956718,-9.427403 ]
+     },
+     "properties": {
+     "Year":2020,
+     "Diplomacy_category":"MIL-POL Engagement",
+     "Delivering_Country":"Australia",
+     "Receiving_Countries":"Solomon Islands",
+     "Comments":"RSIPF officers undertake Maritime Safety training",
+     "Source":"https://solomons.gov.sb/rsipf-officers-undertake-maritime-safety-training/",
+     "Colour":"Specific"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 160.111,-9.21 ]
+     },
+     "properties": {
+     "Year":2023,
+     "Diplomacy_category":"Arms control",
+     "Delivering_Country":"United States of America",
+     "Receiving_Countries":"Solomon Islands, Fiji, Papua New Guinea",
+     "Comments":"Addressing war legacies through unexploded ordnance (UXO) assistance",
+     "Source":"https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/25/fact-sheet-enhancing-the-u-s-pacific-islands-partnership/",
+     "Colour":"Specific"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -175.1743476,-21.14136601 ]
+     },
+     "properties": {
+     "Year":2023,
+     "Diplomacy_category":"Defence Infrastructure",
+     "Delivering_Country":"Australia",
+     "Receiving_Countries":"Tonga",
+     "Comments":"New communications system for HMAF and NEMO",
+     "Source":"https://matangitonga.to/2023/08/17/new-communication-systems-hmaf-and-nemo",
+     "Colour":"Specific"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -175.1362898,-21.23977188 ]
+     },
+     "properties": {
+     "Year":2023,
+     "Diplomacy_category":"Defence Infrastructure",
+     "Delivering_Country":"Australia",
+     "Receiving_Countries":"Tonga",
+     "Comments":"HMAF Taliai Camp Mess Hall gets makeover",
+     "Source":"https://matangitonga.to/2023/04/04/hmaf-taliai-camp-mess-hall-gets-makeover",
+     "Colour":"Specific"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -175.1356312,-21.23942299 ]
+     },
+     "properties": {
+     "Year":2023,
+     "Diplomacy_category":"Defence Infrastructure",
+     "Delivering_Country":"Australia",
+     "Receiving_Countries":"Tonga",
+     "Comments":"ADF supports HMAF develops telecommunications infrastructure through Project LALI",
+     "Source":"https://twitter.com/AustralianArmy/status/1708240313343414499",
+     "Colour":"Specific"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -175.1490528,-21.23732536 ]
+     },
+     "properties": {
+     "Year":2023,
+     "Diplomacy_category":"Maritime Security",
+     "Delivering_Country":"Australia",
+     "Receiving_Countries":"Tonga",
+     "Comments":"Surveillance by Australian Defence Plane",
+     "Source":"https://matangitonga.to/2023/05/25/surveillance-australian-defence-plane",
+     "Colour":"Specific"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -175.1869499,-21.13573834 ]
+     },
+     "properties": {
+     "Year":2023,
+     "Diplomacy_category":"Military Medical Diplomacy",
+     "Delivering_Country":"China",
+     "Receiving_Countries":"Tonga",
+     "Comments":"Chinese naval hospital ship concludes visit to Tonga",
+     "Source":"http://eng.mod.gov.cn/xb/MilitaryServices/News_213106/16243269.html",
+     "Colour":"Specific"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -175.1954268,-21.07355728 ]
+     },
+     "properties": {
+     "Year":2023,
+     "Diplomacy_category":"Military Medical Diplomacy",
+     "Delivering_Country":"China",
+     "Receiving_Countries":"Tonga",
+     "Comments":"Peace Ark conducts medical rescue drills in W/Pacific",
+     "Source":"http://eng.chinamil.com.cn/CHINA_209163/TopStories_209189/16235623.html",
+     "Colour":"Specific"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -175.1967266,-21.12983909 ]
+     },
+     "properties": {
+     "Year":2023,
+     "Diplomacy_category":"Military Medical Diplomacy",
+     "Delivering_Country":"China",
+     "Receiving_Countries":"Tonga",
+     "Comments":"Hospital ship 'Peace Ark' docks at Vuna Wharf",
+     "Source":"https://matangitonga.to/2023/07/28/hospital-ship-peace-ark-docks-vuna-wharf",
+     "Colour":"Specific"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -175.2072568,-21.14141654 ]
+     },
+     "properties": {
+     "Year":2023,
+     "Diplomacy_category":"Training",
+     "Delivering_Country":"Australia",
+     "Receiving_Countries":"Tonga",
+     "Comments":"Australian Defence assists HMAF",
+     "Source":"https://matangitonga.to/2023/04/27/australian-defence-assists-hmaf",
+     "Colour":"Specific"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -175.1956198,-21.13685223 ]
+     },
+     "properties": {
+     "Year":2023,
+     "Diplomacy_category":"Visit Diplomacy",
+     "Delivering_Country":"Australia",
+     "Receiving_Countries":"Tonga",
+     "Comments":"ADF Chief visits HMAF of Tonga",
+     "Source":"https://twitter.com/AustHCTonga/status/1664406534200393728?s=20",
+     "Colour":"Specific"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -175.1770984,-21.13561538 ]
+     },
+     "properties": {
+     "Year":2023,
+     "Diplomacy_category":"Visit Diplomacy",
+     "Delivering_Country":"Japan",
+     "Receiving_Countries":"Tonga",
+     "Comments":"Shiranui welcomes Crown Prince of Tonga",
+     "Source":"https://matangitonga.to/2023/08/30/shiranui-welcomes-crown-prince-and-princess",
+     "Colour":"Specific"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -175.1977932,-21.1292848 ]
+     },
+     "properties": {
+     "Year":2023,
+     "Diplomacy_category":"Visit Diplomacy",
+     "Delivering_Country":"Japan",
+     "Receiving_Countries":"Tonga",
+     "Comments":"Japanese destroyer arrives in Nuku'alofa",
+     "Source":"https://matangitonga.to/2023/08/28/japanese-destroyer-arrives-nukualofa",
+     "Colour":"Specific"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -175.1882558,-21.13611593 ]
+     },
+     "properties": {
+     "Year":2022,
+     "Diplomacy_category":"Defence Infrastructure",
+     "Delivering_Country":"Australia",
+     "Receiving_Countries":"Tonga",
+     "Comments":"HMAF receives hydrographic equipment through Australian Defence partnership",
+     "Source":"https://matangitonga.to/2022/12/09/hmaf-receives-hydrographic-equipment-through-australian-defence-partnership",
+     "Colour":"Specific"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -175.1778276,-21.13967856 ]
+     },
+     "properties": {
+     "Year":2022,
+     "Diplomacy_category":"Defence Infrastructure",
+     "Delivering_Country":"New Zealand",
+     "Receiving_Countries":"Tonga",
+     "Comments":"NZ constructs multi-million Tonga Pacific Leadership Centre",
+     "Source":"https://matangitonga.to/2022/09/23/nz-constructs-multi-million-tonga-pacific-leadership-centre",
+     "Colour":"Specific"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -175.1563599,-21.23798978 ]
+     },
+     "properties": {
+     "Year":2022,
+     "Diplomacy_category":"HADR – Disaster Response",
+     "Delivering_Country":"Australia",
+     "Receiving_Countries":"Tonga",
+     "Comments":"ADF assists Tonga during volcanic eruption",
+     "Source":"https://twitter.com/PeterDutton_MP/status/1482895984695083008",
+     "Colour":"Specific"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -175.2017165,-21.07744744 ]
+     },
+     "properties": {
+     "Year":2022,
+     "Diplomacy_category":"Military Exercises",
+     "Delivering_Country":"Japan",
+     "Receiving_Countries":"Tonga",
+     "Comments":"Japan, Tonga navy hold first joint drill amid China tensions",
+     "Source":"https://www.scmp.com/news/asia/east-asia/article/3189917/japan-tonga-navy-hold-first-joint-drill-amid-china-tensions",
+     "Colour":"Specific"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -175.192509,-21.13173242 ]
+     },
+     "properties": {
+     "Year":2022,
+     "Diplomacy_category":"Visit Diplomacy",
+     "Delivering_Country":"New Zealand",
+     "Receiving_Countries":"Tonga",
+     "Comments":"Two NZ navy ships in Tonga",
+     "Source":"https://matangitonga.to/2022/08/08/two-nz-navy-ships-tonga",
+     "Colour":"Specific"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -175.1998098,-21.13614125 ]
+     },
+     "properties": {
+     "Year":2022,
+     "Diplomacy_category":"Visit Diplomacy",
+     "Delivering_Country":"United States of America",
+     "Receiving_Countries":"Tonga",
+     "Comments":"US Admiral welcomed by HMAF and Acting PM",
+     "Source":"https://matangitonga.to/2022/09/21/us-admiral-welcomed-hmaf-and-acting-pm",
+     "Colour":"Specific"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -174.9479725,-21.37925676 ]
+     },
+     "properties": {
+     "Year":2021,
+     "Diplomacy_category":"Defence Infrastructure",
+     "Delivering_Country":"Australia",
+     "Receiving_Countries":"Tonga",
+     "Comments":"King opens new military camp in 'Eua",
+     "Source":"https://matangitonga.to/2021/06/15/king-opens-euamilitary-camp",
+     "Colour":"Specific"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -175.1776161,-21.13987415 ]
+     },
+     "properties": {
+     "Year":2021,
+     "Diplomacy_category":"Defence Infrastructure",
+     "Delivering_Country":"Australia",
+     "Receiving_Countries":"Tonga",
+     "Comments":"Australian Government provides navy vessel to Tonga",
+     "Source":"https://tonga-gov.pt/en/his-majesty-king-tupou-vi-of-tonga-commissioned-new-patrol-boat-voea-ngahau-siliva/",
+     "Colour":"Specific"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -175.1993134,-21.13368819 ]
+     },
+     "properties": {
+     "Year":2021,
+     "Diplomacy_category":"MIL-POL Engagement",
+     "Delivering_Country":"Australia",
+     "Receiving_Countries":"Tonga",
+     "Comments":"Tonga police partners with AFP",
+     "Source":"https://matangitonga.to/2021/02/12/tonga-police-partners-australian-federal-police",
+     "Colour":"Specific"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -175.1770974,-21.13986708 ]
+     },
+     "properties": {
+     "Year":2020,
+     "Diplomacy_category":"Defence Infrastructure",
+     "Delivering_Country":"Australia",
+     "Receiving_Countries":"Tonga",
+     "Comments":"Australia funds Tonga's Joint Maritime Coordination Centre",
+     "Source":"https://matangitonga.to/2020/07/06/tonga-s-maritime-coordination-centre-launched",
+     "Colour":"Specific"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -175.2024628,-21.13272869 ]
+     },
+     "properties": {
+     "Year":2020,
+     "Diplomacy_category":"Defence Infrastructure",
+     "Delivering_Country":"Australia",
+     "Receiving_Countries":"Tonga",
+     "Comments":"ADF assists HMAF through Australian Defence Cooperation Program",
+     "Source":"https://matangitonga.to/2020/06/26/australian-defence-assists-hmaf",
+     "Colour":"Specific"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -175.1898814,-21.13310843 ]
+     },
+     "properties": {
+     "Year":2020,
+     "Diplomacy_category":"Defence Infrastructure",
+     "Delivering_Country":"Australia",
+     "Receiving_Countries":"Tonga",
+     "Comments":"HMAF's new patrol boat and crew quarantine in harbour",
+     "Source":"https://matangitonga.to/2020/12/17/hmafs-new-patrol-boat-and-crew-quarantine-harbour",
+     "Colour":"Specific"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -175.1381302,-21.24588932 ]
+     },
+     "properties": {
+     "Year":2020,
+     "Diplomacy_category":"Defence Infrastructure",
+     "Delivering_Country":"New Zealand",
+     "Receiving_Countries":"Tonga",
+     "Comments":"NZ delivers PPE and Unimog parts to Tonga",
+     "Source":"https://www.rnz.co.nz/international/pacific-news/432139/nz-delivers-ppe-and-unimog-parts-to-tonga",
+     "Colour":"Specific"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -175.1773177,-21.1396045 ]
+     },
+     "properties": {
+     "Year":2019,
+     "Diplomacy_category":"Defence Infrastructure",
+     "Delivering_Country":"Australia",
+     "Receiving_Countries":"Tonga",
+     "Comments":"Tonga's King commissions navy's new headquarters building and patrol boat",
+     "Source":"https://www.looptonga.com/tonga-news/tonga%E2%80%99s-king-commissions-navy%E2%80%99s-new-headquarters-building-and-patrol-boat-87709",
+     "Colour":"Specific"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -175.2527258,-21.1463177 ]
+     },
+     "properties": {
+     "Year":2019,
+     "Diplomacy_category":"Training",
+     "Delivering_Country":"Australia, New Zealand, France, United States of America",
+     "Receiving_Countries":"Tonga",
+     "Comments":"Multi-national military training in Tongatapu",
+     "Source":"https://matangitonga.to/2019/08/12/multi-national-military-training-tongatapu",
+     "Colour":"Specific"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -175.187267,-21.12667129 ]
+     },
+     "properties": {
+     "Year":2019,
+     "Diplomacy_category":"Visit Diplomacy",
+     "Delivering_Country":"Australia",
+     "Receiving_Countries":"Tonga",
+     "Comments":"Three RAN ships visit Tonga",
+     "Source":"https://nepituno.to/index.php/others/item/3567-three-royal-australian-navy-ships-and-more-than-600-adf-personnel-to-visit-tonga",
+     "Colour":"Specific"
+     }
+   }
+ ]
+ }
